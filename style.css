@@ -1,0 +1,49 @@
+.widget {
+    border: 1px solid black;
+    width: 550px;
+}
+
+h2 {
+    color: grey;
+    font-size: 1.3rem;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: darkgreen;
+    border: none;
+    box-shadow: 0.75px 0.75px 0.75px 0.75px grey;
+    font-size: 1.1rem;
+}
+
+span {
+    font-size: 1.5rem;
+    margin-right: 25px;
+}
+
+.high {
+    color: red;
+}
+
+.low {
+    color: grey;
+}
+
+.purchase {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
